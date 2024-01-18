@@ -1,6 +1,6 @@
 let latLong = async (inputValue) => {
     try{
-        let response = await fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${inputValue}&appid=b092dfbd427eeed434ba45afb8508f0a`);
+        let response = await fetch(`https://api.openweathermap.org/geo/1.0/direct?q=${inputValue}&appid=b092dfbd427eeed434ba45afb8508f0a`);
         let tableau = await response.json();
         let lat = tableau[0].lat;
         let long = tableau[0].lon;
