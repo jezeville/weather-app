@@ -1,28 +1,24 @@
 # weather-app
-## Lien de la page
-
+## Page link
 https://jezeville.github.io/weather-app/
 
 ## Description
+Weather app is a modern, user-friendly weather app that offers a complete experience for users looking for current and upcoming weather conditions. The app takes advantage of several popular APIs to provide accurate weather information and attractive visual features.
 
-Weather app est une application météo moderne et conviviale qui offre une expérience complète pour les utilisateurs cherchant à connaître les conditions météorologiques actuelles et à venir. L'application tire parti de plusieurs API populaires pour fournir des informations météorologiques précises et des fonctionnalités visuelles attrayantes.
+## Features:
 
-Fonctionnalités:
+1. Current Weather Conditions:
+Displays current weather conditions. Uses the OpenWeatherMap API for accurate real-time weather data.
 
-1. Conditions Météorologiques Actuelles:
+2. Short- and long-term forecasts:
+Provides weather forecasts for the next few hours and days. Interactive graphics based on Chart.js for easy visualization of temperature variations.
 
-Affiche les conditions météorologiques actuelles.
-Utilisation de l'API OpenWeatherMap pour des données météorologiques précises en temps réel.
+3. Customized background images:
+Use the Unsplash API to display background images based on location or weather conditions.
 
-2. Prévisions à Court et Long Terme:
+## Learning
+The initial integration of APIs represented a real challenge when first starting out, but it simultaneously opens the door to a multitude of infinite possibilities. While exploring APIs may initially seem complex to those venturing into them for the first time, it offers an unlimited range of opportunities for enriching and customizing an application's functionality. Application programming interfaces (APIs) such as OpenWeatherMap, Unsplash and OpenStreetMap are exceptional resources for accessing accurate weather data, captivating images and interactive maps, bringing to life a dynamic and immersive user experience.
 
-Propose des prévisions météorologiques pour les prochaines heures et les prochains jours.
-Graphiques interactifs basés sur Chart.js pour une visualisation facile des variations de température.
+## Design Photo
+![image](https://github.com/jezeville/weather-app/assets/151575442/820010b8-c275-4906-a5d9-2c0ba62afd16)
 
-3. Images de Fond Personnalisées:
-
-Utilisation de l'API Unsplash pour afficher des images de fond en fonction de la localisation ou des conditions météorologiques.
-
-## Apprentissage
-
-L'intégration initiale des API a représenté une véritable difficulté en commencant, mais elle ouvre simultanément les portes à une multitude de possibilités infinies. Bien que l'exploration des API puisse sembler initialement complexe pour ceux qui s'y aventurent pour la première fois, elle offre en contrepartie un éventail illimité d'opportunités pour enrichir et personnaliser les fonctionnalités d'une application. Ces interfaces de programmation d'applications (API) telles qu'OpenWeatherMap, Unsplash et OpenStreetMap sont des ressources exceptionnelles qui permettent d'accéder à des données météorologiques précises, des images captivantes et des cartes interactives, donnant ainsi vie à une expérience utilisateur dynamique et immersive.
