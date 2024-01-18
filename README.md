@@ -26,3 +26,8 @@ Utilisation de l'API Unsplash pour afficher des images de fond en fonction de la
 ## Apprentissage
 
 L'intégration initiale des API a représenté une véritable difficulté en commencant, mais elle ouvre simultanément les portes à une multitude de possibilités infinies. Bien que l'exploration des API puisse sembler initialement complexe pour ceux qui s'y aventurent pour la première fois, elle offre en contrepartie un éventail illimité d'opportunités pour enrichir et personnaliser les fonctionnalités d'une application. Ces interfaces de programmation d'applications (API) telles qu'OpenWeatherMap, Unsplash et OpenStreetMap sont des ressources exceptionnelles qui permettent d'accéder à des données météorologiques précises, des images captivantes et des cartes interactives, donnant ainsi vie à une expérience utilisateur dynamique et immersive.
+
+## Photo du design
+
+![image](https://github.com/jezeville/weather-app/assets/151575442/820010b8-c275-4906-a5d9-2c0ba62afd16)
+
