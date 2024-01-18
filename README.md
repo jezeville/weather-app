@@ -20,5 +20,6 @@ Use the Unsplash API to display background images based on location or weather c
 The initial integration of APIs represented a real challenge when first starting out, but it simultaneously opens the door to a multitude of infinite possibilities. While exploring APIs may initially seem complex to those venturing into them for the first time, it offers an unlimited range of opportunities for enriching and customizing an application's functionality. Application programming interfaces (APIs) such as OpenWeatherMap, Unsplash and OpenStreetMap are exceptional resources for accessing accurate weather data, captivating images and interactive maps, bringing to life a dynamic and immersive user experience.
 
 ## Design Photo
-![image](https://github.com/jezeville/weather-app/assets/151575442/820010b8-c275-4906-a5d9-2c0ba62afd16)
+![image](https://github.com/jezeville/weather-app/assets/151575442/2f92cdb2-3bb4-4082-a505-84ed0f26c0b4)
+
 
