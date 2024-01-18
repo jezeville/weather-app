@@ -161,18 +161,15 @@ export let comparaisonPannel = async () =>{
         
 
 
-for (let i = 0; i<5; i++){
-    //changement de date pour les jours de la semaine
-        let jour = document.getElementById('main__jour'+i);
-        let currentDate = Date.now()
-        let dayOfWeek = new Date(currentDate).getDay()+i;
         const joursDeLaSemaine = ['Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'];
-        let nomDuJour = joursDeLaSemaine[dayOfWeek];
-        if (dayOfWeek == 7){
-            nomDuJour= joursDeLaSemaine[0]
+
+        for (let i = 0; i < 5; i++) {
+            let jour = document.getElementById('main__jour' + i);
+            let currentDate = Date.now();
+            let dayOfWeek = (new Date(currentDate).getDay() + i) % 7;
+            let nomDuJour = joursDeLaSemaine[dayOfWeek];
+            jour.innerHTML = nomDuJour;
         }
-        jour.innerHTML = nomDuJour;
-}
 
 
 // Affichage de l'image en utilisant l'api unsplash
